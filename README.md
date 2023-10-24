@@ -49,7 +49,7 @@ The above links to a desktop view solution for the project.
 
 ### What I learned
 
-- I go to try out the CSS _:not()_ Pseudo-Class.
+- I got to try out the CSS _:not()_ Pseudo-Class.
 
 ```css
 section:not(:first-child) {
