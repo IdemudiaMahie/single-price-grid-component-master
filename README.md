@@ -53,7 +53,7 @@ The above links to a desktop view solution for the project.
 
 ```css
 section:not(:first-child) {
-    color: var(--Light-Gray);
+  color: var(--Light-Gray);
 }
 ```
 - I was able to make use of JavaScript to give some dynamism to page by making the button toggle some CSS styles.
